@@ -4,10 +4,10 @@ mmproxy is a middle-man proxy for mobile phones to surf the internet via implici
 
 Architecture
 ---
-+-----------------+  +-----------------------+  +-------------------+
-|Your mobile phone|--|        mmproxy        |--|      Internet     |
-|  (e.g. android) |--|on your wireless router|--|(e.g. facebook.com)|
-+-----------------+  +-----------------------+  +-------------------+
+    +-----------------+  +-----------------------+  +-------------------+
+    |Your mobile phone|--|        mmproxy        |--|      Internet     |
+    |  (e.g. android) |--|on your wireless router|--|(e.g. facebook.com)|
+    +-----------------+  +-----------------------+  +-------------------+
 
 Installation
 ---
